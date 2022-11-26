@@ -1,4 +1,6 @@
 ﻿// Программа определяет, является ли число полиндромом
+void Polindrom()
+{
 Console.WriteLine("Введите пятизначное число");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number/10000 > 0)
@@ -20,4 +22,7 @@ if (number/10000 > 0)
     else {Console.WriteLine("Число не является полиндромом");}
 }
 else {Console.WriteLine("Введите правильное число: положительное, не начинается с 0");}
+}
+
+Polindrom();
 

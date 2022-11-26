@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Определение расстояния между 2-мя точками в 3D пространтсве/1.0.0": {
+        "runtime": {
+          "Определение расстояния между 2-мя точками в 3D пространтсве.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Определение расстояния между 2-мя точками в 3D пространтсве/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
